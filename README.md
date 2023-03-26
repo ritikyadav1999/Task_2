@@ -1,5 +1,7 @@
 # Task -2 Swagger Codegen
 
+### => All the project files are in springboot-mongodb folder.
+
 ### =>Please install all the required mvn packages.
 
 ### =>To Start the Application go to
