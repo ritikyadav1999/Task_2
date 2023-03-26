@@ -1,5 +1,10 @@
 # Task -2 Swagger Codegen
 
+### To Start the Application go to
+#### src > main > java > com.godsplan > springbootMongodbApplication and start.
+
+
+
 ## A Simple Backend Application is Designed with help of SpringBoot and MongoDB and Swagger-ui is also used.
 ![Main Application Running](https://user-images.githubusercontent.com/122474267/227774056-f38337fd-342f-42e2-a362-89ee3ba18789.png)
 
