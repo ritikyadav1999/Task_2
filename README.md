@@ -23,7 +23,7 @@
 #### search objects by name
 
 
-# Endpoint : http://localhost:8080/swagger-ui/
+# Home Page Endpoint : http://localhost:8080/swagger-ui/
 ![HomePage swagger-ui](https://user-images.githubusercontent.com/122474267/227774284-b4192415-1565-4b65-9162-73dc76a225f9.png)
 ![Screenshot (10)](https://user-images.githubusercontent.com/122474267/227774326-71ddc020-fa4a-4a44-a9de-ec879136b17d.png)
 
